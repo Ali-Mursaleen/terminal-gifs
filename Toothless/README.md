@@ -1,6 +1,4 @@
-# Terminal Zoo 🐉🦀
+# Toothless Animation 🐉
 
-## Toothless Animation
-
-![Toothless running](preview/toothless.gif)
+![Toothless running](toothless.gif)
 
