@@ -1,4 +1,4 @@
 # Crab Rave Dance
 
-![Toothless running](Crab.gif)
+![Crab running](Crab.gif)
 
